@@ -1,0 +1,26 @@
+{
+  "name": "klaadhithya.github.io",
+  "version": "1.0.0",
+  "description": "Building my portfolio",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klaadhithya/klaadhithya.github.io.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Aadhithya B.Kailash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klaadhithya/klaadhithya.github.io/issues"
+  },
+  "homepage": "https://github.com/klaadhithya/klaadhithya.github.io#readme"
+}
