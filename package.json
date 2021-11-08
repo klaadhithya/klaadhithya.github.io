@@ -9,14 +9,14 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "nodemon index.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/klaadhithya/klaadhithya.github.io.git"
   },
   "keywords": [
-    "[]"
   ],
   "author": "Aadhithya B.Kailash",
   "license": "ISC",
